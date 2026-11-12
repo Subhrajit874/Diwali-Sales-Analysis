@@ -14,7 +14,7 @@ Performed Exploratory Data Analysis (EDA) on a Diwali Sales dataset to understan
 ## Key Insights
 - Female customers contributed more to total sales.
 - The 26–35 age group generated the highest revenue.
-- Married customers accounted for a significant share of purchases.
+- Unmarried customers accounted for a significant share of purchases.
 - Identified top-performing states and product categories.
 
 ## Files
